@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e9fa0d-78a4-4d9b-865c-2b937ea13022" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.webApi/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.webApi/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.webApi/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.webApi/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.webApi/riderModule.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi.sln" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/.bowerrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Controllers/HomeController.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Controllers/ProductsController.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Models/ErrorViewModel.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Models/Product.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Program.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Properties/launchSettings.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Startup.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/Home/About.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/Home/Contact.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/Home/Index.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/Shared/Error.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/Shared/_Layout.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/_ViewImports.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/Views/_ViewStart.cshtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/appsettings.Development.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/appsettings.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/bundleconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/webApi.csproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/css/site.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/css/site.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/images/banner1.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/images/banner2.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/images/banner3.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/images/banner4.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/js/site.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/js/site.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/bootstrap/dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation/dist/additional-methods.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation/dist/jquery.validate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery/dist/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery/dist/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webApi/wwwroot/lib/jquery/dist/jquery.min.map" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Product.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webApi/Models/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <marker date="1521404703283" expanded="true" signature="37:207" ph="{...}" />
+                <marker date="1521404703283" expanded="true" signature="64:205" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductsController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webApi/Controllers/ProductsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1521404784170" expanded="true" signature="61:237" ph="{...}" />
+                <marker date="1521404784170" expanded="true" signature="112:235" ph="{...}" />
+                <marker date="1521404784170" expanded="true" signature="170:229" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/webApi/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/webApi/Controllers/ProductsController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/webApi/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/webApi/Controllers/ProductsController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="webApi (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="webApi (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="webApi" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="webApi (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="webApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="webApi (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="webApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e9fa0d-78a4-4d9b-865c-2b937ea13022" name="Default" comment="" />
+      <created>1521404548168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521404548168</updated>
+      <workItem from="1521404551052" duration="544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="544000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17142858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webApi/Models/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <marker date="1521404703283" expanded="true" signature="37:207" ph="{...}" />
+            <marker date="1521404703283" expanded="true" signature="64:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webApi/Controllers/ProductsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1521404784170" expanded="true" signature="61:237" ph="{...}" />
+            <marker date="1521404784170" expanded="true" signature="112:235" ph="{...}" />
+            <marker date="1521404784170" expanded="true" signature="170:229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
